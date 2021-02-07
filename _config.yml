@@ -6,4 +6,4 @@ author:
   descripction: "Yo, como siempre, llena de ilusion en lo que hago ahora y en lo que en cada momento dispongan de mi."
   
   # Build settings
-  remote_theme: jekyll/minima
+  theme: jekyll-theme-minimal
