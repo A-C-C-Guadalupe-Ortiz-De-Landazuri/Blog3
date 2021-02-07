@@ -1,9 +1,9 @@
-...
+---
 layout: post
 title: Formato de las publicaciones
 tags: ejemplo formato 
 categories: demo
-...
+---
 
 ## ¿Quiénes Somos?
 
