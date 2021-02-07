@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ¿Quienes somos?
+title: About
 ---
 
 Somos un grupo de jóvenes católicos laicos que estudian distintas áreas del conocimiento: matemáticas, física y filosofía.
