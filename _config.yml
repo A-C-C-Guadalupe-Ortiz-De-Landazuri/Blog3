@@ -1,9 +1,9 @@
-# Site Settings
+# Site settings
 title: A.C.C. Guadalupe Ortíz de Landázuri
 author:
   name: Asociación de Científicos Católicos Guadalupe Ortíz de Landazuri
   email: glportizdlandazuri@gmail.com
   descripction: "Yo, como siempre, llena de ilusión en lo que hago ahora y en lo que en cada momento dispongan de mí."
   
-  # Build Settings
+  # Build settings
   remote_theme: jekyll/minima
